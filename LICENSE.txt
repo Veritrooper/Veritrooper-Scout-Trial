@@ -1,0 +1,72 @@
+VERITROOPER SCOUT — EVALUATION LICENSE AGREEMENT
+=================================================
+
+This Evaluation License Agreement ("Agreement") governs your use of the
+VERITROOPER Scout evaluation/trial software and any accompanying files (the
+"Software"), provided by Veritrooper LLC ("Veritrooper"). By downloading,
+installing, or using the Software, you agree to these terms. If you do not
+agree, do not install or use the Software.
+
+1. LICENSE GRANT
+   Veritrooper grants you a limited, non-exclusive, non-transferable,
+   non-sublicensable, revocable license to install and use the Software
+   solely to evaluate it internally, subject to the trial limits built into
+   the Software (currently up to 250 questions per audit, 5 audits, and a
+   60-day period). No other use is licensed.
+
+2. RESTRICTIONS
+   You may not, and may not permit others to:
+   (a) sell, rent, lease, sublicense, distribute, publish, or otherwise make
+       the Software available to any third party;
+   (b) copy the Software except as necessary to install and run it for
+       evaluation;
+   (c) modify, adapt, translate, or create derivative works of it;
+   (d) reverse engineer, decompile, disassemble, or otherwise attempt to
+       derive the source code, algorithms, or internal workings of the
+       Software, except to the extent this restriction is prohibited by
+       applicable law;
+   (e) remove, alter, or obscure any proprietary notices, watermarks, or
+       trial markings;
+   (f) use the Software in production or for any purpose other than internal
+       evaluation.
+
+3. OWNERSHIP
+   The Software is licensed, not sold. Veritrooper retains all right, title,
+   and interest in and to the Software, including all intellectual property
+   rights. Patent pending (U.S. non-provisional application filed
+   05/22/2026). All rights not expressly granted are reserved.
+
+4. YOUR DATA AND KEYS
+   The Software runs on your machine. You are responsible for the documents
+   you audit and for any third-party AI provider accounts, API keys, usage,
+   and charges incurred when you run it. Veritrooper does not receive your
+   documents or your keys.
+
+5. TERM AND TERMINATION
+   This Agreement is effective until the trial limits are reached or it is
+   otherwise terminated. It terminates automatically if you breach any term.
+   On termination you must stop using and uninstall the Software.
+
+6. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, VERITROOPER WILL NOT BE LIABLE
+   FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY
+   DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, OR USE, ARISING OUT OF OR
+   RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY. VERITROOPER'S
+   TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED USD $100.
+
+8. GOVERNING LAW
+   This Agreement is governed by the laws of the State of Delaware, without
+   regard to its conflict-of-laws rules.
+
+9. ENTIRE AGREEMENT
+   This Agreement is the entire agreement between you and Veritrooper
+   regarding the Software and supersedes any prior understandings.
+
+(c) 2026 Veritrooper LLC. All rights reserved.
+Contact: brianb@veritrooper.com  ·  https://veritrooper.com
