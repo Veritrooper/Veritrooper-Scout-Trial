@@ -82,7 +82,7 @@ THE FULL VERSION
 
 Ready to run it without the caps, or want it on your own deployed assistant?
 
-  brianb@veritrooper.com
+  contact@veritrooper.com
   https://veritrooper.com
 
 --------------------------------------------------------------------------
